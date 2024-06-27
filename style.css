@@ -1,0 +1,21 @@
+.navbar{
+  border: solid blue;
+  height: 12vh;
+  margin: 1em;
+}
+
+.mainPic{
+  border: solid green;
+  height: 42vh;
+  margin: 1em;
+}
+
+.adContainer{
+  border: solid purple;
+  height: 42vh;
+  margin: 1em;
+}
+
+.logo{
+  height: 100%;
+}
